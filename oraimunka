@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>9/e</title>
+</head>
+<body style="background-color: mediumaquamarine;">
+    <h1 style="color: blue; background-color:rgba(0, 0, 0, 0.226);">Bastyúr Milán</h1>
+    <h2 style="color: blueviolet; background-color: rgb(0, 0, 0);">Bastyúr Milán</h2>
+    <h3 style="color: pink; background-color: rgb(0, 0, 0);">Bastyúr Milán</h3>
+    <h4 style="color:red; background-color: rgb(0, 0, 0);">Bastyúr Milán</h4>
+    <h5 style="color: orange; background-color:black;">Bastyúr Milán</h5>
+    <h6 style="color: aqua; background-color: black;">Bastyúr Milán</h6>
+</body>
+</html>
